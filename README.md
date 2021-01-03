@@ -1,4 +1,5 @@
-# O site possuí animações feitas com CSS ao entrar. Com JavaScript, desenvolvi a barra de rolagem de animais, onde a cada clique no respectivo animal, muda para o seu texto
+# O site possuí animações feitas com CSS ao entrar. Com JavaScript, desenvolvi a barra de rolagem de animais, onde a cada clique no respectivo animal, muda para o seu texto.
+Utilização de DOM para o desenvolvimento do site.
 
 ## DESKTOP
 ![animais-desk1](https://user-images.githubusercontent.com/69438854/103491023-c6f66300-4dfe-11eb-9e98-11c7086e1b8d.png)
